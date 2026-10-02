@@ -1,10 +1,10 @@
-<img src="assets/banner.svg" alt="Emanuele Montalto — Economia, software, AI e automazione" width="100%" />
+<img src="assets/banner.png" alt="Emanuele Montalto — Software, AI e automazione" width="100%" />
 
 # Ciao, sono Emanuele
 
 Software Developer a Roma. Unisco la formazione in **Economia e Management** allo sviluppo di **applicazioni web, integrazioni AI e automazione**.
 
-Lavoro in **Caes Software** da marzo 2025. Sto completando la magistrale a **Tor Vergata**: esami conclusi, tesi da svolgere. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
+Lavoro in **Caes Software** da marzo 2025. Sto completando la magistrale a **Tor Vergata**: esami conclusi, tesi da completare. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
 
 [Portfolio e demo](https://portfolio.lele-tradevalue.com) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
 
