@@ -18,12 +18,15 @@ Lavoro in **Caes Software** da marzo 2025. Laurea magistrale in **Economia e Man
 | [E-commerce e assistente AI](https://github.com/lelee25/ecommerce-assistente-ai-showcase) | Piattaforma e-commerce con assistente, web app e integrazione Telegram. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/) |
 | [ReduceAll](https://github.com/lelee25/reduceall-showcase) | Web app per compressione, conversione e strumenti di elaborazione dei documenti. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/reduceall/) |
 | [TRADEVALUE](https://github.com/lelee25/tradevalue-showcase) | Workspace personale di analisi dei mercati con agenti e dashboard. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/tradevalue/) |
+| [FIDIA](https://github.com/lelee25/fidia-showcase) | Project work della magistrale in Economia e Management a Tor Vergata: caso di studio FIDIA, con analisi strutturata, fonti tracciate e visualizzazioni interattive. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/fidia/) |
 
 ## Tecnologie con cui lavoro
 
 **Python · TypeScript · JavaScript · React · FastAPI · SQL · Docker**
 
 Nei progetti personali ho lavorato con API REST, PostgreSQL e SQLite, PWA, ricerca nella conoscenza, LLM e strumenti per l’automazione.
+
+**Inglese B2 QCER**, certificato a maggio 2026.
 
 ## Il laboratorio
 
