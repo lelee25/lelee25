@@ -2,11 +2,13 @@
 
 # Ciao, sono Emanuele
 
-Software Developer a Roma. Unisco la formazione in **Economia e Management** allo sviluppo di **applicazioni web, integrazioni AI e automazione**.
+Laureato in **Economia e Management** e laureando magistrale a **Tor Vergata**, con esperienza come **Software Developer in Caes Software** da marzo 2025.
 
-Lavoro in **Caes Software** da marzo 2025. Laurea magistrale in **Economia e Management** in corso a **Tor Vergata**, con esami completati e tesi di laurea da completare. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
+In azienda contribuisco al confronto sui requisiti, all’analisi dei processi e alla progettazione di soluzioni applicative, oltre allo sviluppo web con React, TypeScript e API REST. Nei progetti personali e accademici collego analisi, dati, automazione e sistemi AI.
 
-[Portfolio e demo](https://portfolio.lele-tradevalue.com) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
+La magistrale è in corso, con esami completati. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
+
+[Portfolio e demo](https://portfolio.lele-tradevalue.com) · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
 
 ## Progetti da esplorare
 
@@ -79,4 +81,4 @@ Il [catalogo dei progetti](https://github.com/lelee25/progetti-showcase) raccogl
 
 ## In English
 
-I’m a Software Developer with a background in Economics and Management. I build web applications, AI integrations and automation tools. Explore my [English introduction](https://portfolio.lele-tradevalue.com/en/) and selected project overviews.
+I’m an Economics and Management graduate completing a master’s degree at Tor Vergata and working as a Software Developer at Caes Software. My experience combines requirements discussions, business process analysis, solution design and web development. Personal and academic projects extend this work into data analysis, automation and AI. Explore my [English introduction](https://portfolio.lele-tradevalue.com/en/) and selected project overviews.
