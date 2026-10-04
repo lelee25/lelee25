@@ -8,7 +8,7 @@ In azienda contribuisco al confronto sui requisiti, all’analisi dei processi e
 
 La magistrale è in corso, con esami completati. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
 
-[Portfolio e demo](https://portfolio.lele-tradevalue.com) · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
+[Portfolio e demo](https://portfolio.lele-tradevalue.com) · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf?v=866410510fed) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf?v=ae9fccec22bf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
 
 ## Progetti da esplorare
 
