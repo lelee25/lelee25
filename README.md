@@ -10,7 +10,7 @@ Vengo dall’economia e scrivo software. Mi sono laureato in **Economia e Manage
 
 Fuori dall’orario d’ufficio costruisco assistenti AI, piattaforme di analisi e piccoli prodotti. Il filo conduttore è sempre lo stesso: capire come funziona davvero un’attività, poi costruire lo strumento che la fa funzionare meglio.
 
-**[→ Portfolio con le demo](https://portfolio.lele-tradevalue.com)** · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto/) · [montalto36@gmail.com](mailto:montalto36@gmail.com)
+**[→ Portfolio con le demo](https://portfolio.lele-tradevalue.com)** · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf?rev=517a617b3a7c) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf?rev=95860abae793) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto/) · [montalto36@gmail.com](mailto:montalto36@gmail.com)
 
 ---
 
