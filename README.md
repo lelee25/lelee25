@@ -1,84 +1,63 @@
-<img src="assets/banner.png" alt="Economia e Management — Sviluppo software, AI e automazione" width="100%" />
-
-# Ciao, sono Emanuele
-
-Laureato in **Economia e Management** e laureando magistrale a **Tor Vergata**, con esperienza come **Software Developer in Caes Software** da marzo 2025.
-
-In azienda contribuisco al confronto sui requisiti, all’analisi dei processi e alla progettazione di soluzioni applicative, oltre allo sviluppo web con React, TypeScript e API REST. Nei progetti personali e accademici collego analisi, dati, automazione e sistemi AI.
-
-La magistrale è in corso, con esami completati. Nel 2024 ho ricevuto il primo premio all’Ideathon **Blockchain Innovation Day** promosso da ICP Hub Italia.
-
-[Portfolio e demo](https://portfolio.lele-tradevalue.com) · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf?v=866410510fed) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf?v=ae9fccec22bf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto-bba6a9300/) · [Contatto](mailto:montalto36@gmail.com)
-
-## Progetti da esplorare
-
-| Progetto | Cosa puoi vedere |
-|---|---|
-| [AURIGA](https://github.com/lelee25/auriga-showcase) | Sistema di race engineering sviluppato per un hackathon Oracle, con supervisore multiagente e simulatore endurance. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/auriga/) |
-| [FIDIA](https://github.com/lelee25/fidia-showcase) | Project work magistrale a Tor Vergata: dalla teoria dell’azienda-persona a una piattaforma funzionante con analisi economico-manageriale, fonti tracciate, visualizzazioni 2D/3D e assistente AI. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/fidia/) |
-| [Agentkit](https://github.com/lelee25/agentkit-showcase) | Libreria Python per agenti AI: esecuzione, strumenti tipizzati, streaming, memoria e integrazioni. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/agentkit/) |
-| [RECALL](https://github.com/lelee25/recall-showcase) | Sistema personale di raccolta, ricerca e organizzazione della conoscenza a partire da contenuti e screenshot. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/recall/) |
-| [E-commerce e assistente AI](https://github.com/lelee25/ecommerce-assistente-ai-showcase) | Piattaforma e-commerce con assistente, web app e integrazione Telegram. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/) |
-| [Splitro](https://github.com/lelee25/splitro-showcase) | App per ripartire spese di viaggio tra partecipanti, con interfaccia web e integrazione Telegram. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/splitro/) |
-| [ReduceAll](https://github.com/lelee25/reduceall-showcase) | App per compressione, conversione ed elaborazione dei file sul dispositivo. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/reduceall/) |
-| [TRADEVALUE](https://github.com/lelee25/tradevalue-showcase) | Workspace personale di analisi dei mercati con agenti e dashboard. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/tradevalue/) |
-| [Loquai](https://github.com/lelee25/loquai-showcase) | Studio web per sintesi vocale, gestione delle voci e trascrizione, con struttura SaaS. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/loquai/) |
-| [DesignTP](https://github.com/lelee25/designtp-showcase) | Libreria frontend con componenti React, token di design, animazioni e ambienti di documentazione. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/designtp/) |
-| [Assistente AI per la domotica](https://github.com/lelee25/assistente-domotico-showcase) | Assistente domestico con web app e integrazione Home Assistant. [Scheda ↗](https://portfolio.lele-tradevalue.com/progetti/assistente-domotico/) |
-
-### Altri progetti selezionati
-
-- [Fastdoc](https://portfolio.lele-tradevalue.com/progetti/fastdoc/) — Assistente di prenotazione con API, console vocale e percorsi di conferma controllati.
-- [CoFactor](https://portfolio.lele-tradevalue.com/progetti/cofactor/) — Diario alimentare attraverso Telegram, con annotazioni strutturate e storico consultabile.
-- [Billtap](https://portfolio.lele-tradevalue.com/progetti/billtap/) — Prototipo web per dividere il conto al tavolo tramite NFC, con quote e stato condiviso.
-- [Radar Forge](https://portfolio.lele-tradevalue.com/progetti/radar-forge/) — Ricerca di opportunità di mercato con raccolta di segnali, provenienza delle fonti e report.
-- [Study Starter Kit](https://portfolio.lele-tradevalue.com/progetti/study/) — Kit di studio per applicare la teoria ai fatti, con schede, fonti tracciate e piattaforma web.
-- [Marketing Forge](https://portfolio.lele-tradevalue.com/progetti/marketing-forge/) — Workflow di ricerca e produzione di contenuti, con strumenti di rendering e revisione.
-- [Officina Video](https://portfolio.lele-tradevalue.com/progetti/officina-video/) — Officina di produzione video: elaborazione dei media, composizioni e strumenti per i render.
-- [ARC Bridge](https://portfolio.lele-tradevalue.com/progetti/arc/) — Tooling blockchain per verifiche, simulazioni e recupero di operazioni di bridge.
-
-## Tecnologie con cui lavoro
-
-### Linguaggi e markup
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack/py,ts,js,html,css-dark.svg" />
-  <img src="assets/stack/py,ts,js,html,css-light.svg" alt="Python · TypeScript · JavaScript · HTML · CSS" width="272" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+  <img src="assets/banner-dark.png" alt="Emanuele Montalto — Capisco il problema. Poi costruisco il software." width="100%" />
 </picture>
 
-Python · TypeScript · JavaScript · HTML · CSS
+## Ciao, sono Emanuele 👋
 
-### Interfacce e servizi
+Vengo dall’economia e scrivo software. Mi sono laureato in **Economia e Management** a Tor Vergata, dove sto finendo la magistrale, e da marzo 2025 lavoro come **Software Developer in Caes Software**, tra requisiti, analisi dei processi e applicazioni web in React e TypeScript.
+
+Fuori dall’orario d’ufficio costruisco assistenti AI, piattaforme di analisi e piccoli prodotti. Il filo conduttore è sempre lo stesso: capire come funziona davvero un’attività, poi costruire lo strumento che la fa funzionare meglio.
+
+**[→ Portfolio con le demo](https://portfolio.lele-tradevalue.com)** · [CV](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-profilo.pdf) · [English résumé](https://portfolio.lele-tradevalue.com/cv/emanuele-montalto-en.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto/) · [montalto36@gmail.com](mailto:montalto36@gmail.com)
+
+---
+
+### Progetti in evidenza
+
+Il codice di questi progetti è privato: per ognuno c’è un caso studio con un **prototipo che puoi provare** nel browser.
+
+| | Progetto | In breve |
+|---|---|---|
+| 01 | **[FIDIA](https://portfolio.lele-tradevalue.com/progetti/fidia/)** · project work magistrale | Un caso di governance aziendale trasformato in una piattaforma web di 35 schermate: modelli 3D, ogni numero collegato alla sua fonte, un assistente AI con un controllo indipendente. **[Online](https://fidia.lele-tradevalue.com/)** |
+| 02 | **[AURIGA](https://portfolio.lele-tradevalue.com/progetti/auriga/)** · hackathon Oracle × Scuderia Tor Vergata | Un ingegnere di pista AI: un supervisore e cinque specialisti leggono la telemetria, citano il regolamento e simulano la gara prima di consigliare il pit stop. |
+| 03 | **[E-commerce su Telegram](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/)** | Due bot per un negozio: il cliente compra in chat, il titolare evade ordini e pubblica prodotti da una foto. L’AI propone, le persone confermano. |
+| 04 | **[RECALL](https://portfolio.lele-tradevalue.com/progetti/recall/)** | Salvi uno screenshot in un gesto: lo capisce, lo collega al resto e te lo ripropone quando serve. |
+| 05 | **[Agentkit](https://portfolio.lele-tradevalue.com/progetti/agentkit/)** | La mia libreria Python per agenti AI, usata in tutti i progetti qui sopra: strumenti tipizzati, approvazione umana, fallback tra provider. |
+| 06 | **[TRADEVALUE](https://portfolio.lele-tradevalue.com/progetti/tradevalue/)** | Un terminale di ricerca sui mercati con agenti specializzati e un sistema di sicurezza sempre acceso. |
+| 07 | **[Splitro](https://portfolio.lele-tradevalue.com/progetti/splitro/)** | Dividere le spese dei viaggi in auto partendo da una frase: l’AI legge, il codice conta al centesimo. |
+| 08 | **[ReduceAll](https://portfolio.lele-tradevalue.com/progetti/reduceall/)** | Comprimi un file fin sotto il limite di email o PEC, sul tuo dispositivo, senza caricarlo. |
+| 09 | **[Assistente per la casa](https://portfolio.lele-tradevalue.com/progetti/assistente-domotico/)** | Parli alla casa: le azioni sicure partono, quelle critiche chiedono conferma, quelle sbagliate vengono fermate. |
+
+Le panoramiche pubbliche sono anche qui su GitHub, nei repository `*-showcase` e nel [catalogo dei progetti](https://github.com/lelee25/progetti-showcase).
+
+---
+
+### Con cosa lavoro
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack/react,fastapi,astro,nodejs,tailwind-dark.svg" />
-  <img src="assets/stack/react,fastapi,astro,nodejs,tailwind-light.svg" alt="React · FastAPI · Astro · Node.js · Tailwind CSS" width="272" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.png" />
+  <img src="assets/stack-dark.png" alt="Stack: Python, TypeScript, JavaScript, SQL, HTML, CSS · React, Astro, Tailwind, Three.js, Vite · FastAPI, Node.js, Pydantic, Telegram, OpenTelemetry, LLM · PostgreSQL, SQLite, Docker, Linux, Git, Stripe" width="100%" />
 </picture>
 
-React · FastAPI · Astro · Node.js · Tailwind CSS
+E dal lato economico: analisi dei processi, raccolta dei requisiti, lettura di bilanci e governance, analisi di mercato.
 
-### Dati e infrastruttura
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgres,sqlite,docker,git,linux-dark.svg" />
-  <img src="assets/stack/postgres,sqlite,docker,git,linux-light.svg" alt="PostgreSQL · SQLite · Docker · Git · Linux" width="272" />
-</picture>
+### Qualche fatto
 
-PostgreSQL · SQLite · Docker · Git · Linux
+- 🏆 **Primo premio** all’Ideathon *Blockchain Innovation Day* di ICP Hub Italia (Roma, 2024).
+- 🏁 *AI Race Engineer Challenge* di Oracle con la Scuderia Tor Vergata (maggio 2026), con AURIGA.
+- 🇬🇧 Inglese **B2** certificato.
+- 📈 3.577 contributi negli ultimi 12 mesi (al 7 ottobre 2026, inclusa l’attività privata).
 
+<details>
+<summary><b>In English</b></summary>
 
-Nei progetti personali ho lavorato anche con SQL, API REST, PWA, RAG e strumenti per l’automazione. Ogni scheda indica lo stack effettivamente utilizzato.
+I come from economics and I write software. I graduated in **Economics and Management** at Tor Vergata University in Rome, where I’m finishing my master’s, and since March 2025 I’ve worked as a **Software Developer at Caes Software** — requirements, process analysis and React/TypeScript web apps.
 
-Icone: [Skill Icons](https://github.com/tandpfun/skill-icons), licenza MIT. File inclusi nel repository, senza dipendere da un servizio di immagini esterno.
+On my own time I build AI assistants, analysis platforms and small products. The common thread: understand how a business really works, then build the tool that makes it work better. Every featured project above has a case study with a **working prototype** on my [portfolio](https://portfolio.lele-tradevalue.com/en/).
 
-**Inglese B2 QCER**, certificato a maggio 2026.
-
-## Il laboratorio
-
-Il [catalogo dei progetti](https://github.com/lelee25/progetti-showcase) raccoglie prodotti, strumenti e sperimentazioni. Le schede mostrano problema, contributo e stack a un livello generale; il codice sorgente e le parti riservate restano nei repository privati.
-
-**3.267 contributi GitHub negli ultimi 12 mesi**, rilevati il 2 ottobre 2026. Il conteggio include attività privata e descrive la continuità dello sviluppo; non equivale a un numero di commit o a un indicatore di qualità.
-
-## In English
-
-I’m an Economics and Management graduate completing a master’s degree at Tor Vergata and working as a Software Developer at Caes Software. My experience combines requirements discussions, business process analysis, solution design and web development. Personal and academic projects extend this work into data analysis, automation and AI. Explore my [English introduction](https://portfolio.lele-tradevalue.com/en/) and selected project overviews.
+</details>
